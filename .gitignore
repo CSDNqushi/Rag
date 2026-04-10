@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+
+chat_history/
+chroma_db/
+memory_graph/
+_tmp_memory_chroma/
+_tmp_memory_graph/
+
+md5.text
