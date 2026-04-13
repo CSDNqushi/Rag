@@ -10,3 +10,4 @@ _tmp_memory_chroma/
 _tmp_memory_graph/
 
 md5.text
+.env
